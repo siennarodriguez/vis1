@@ -6,6 +6,24 @@
     "data": {
       "url": "https://raw.githubusercontent.com/siennarodriguez/vis1/main/data/hci_all.csv"
     },
+    "mark": "circle",
+    "encoding": {
+        "x": {
+            "field": "Adult Survival Rate",
+            "type": "quantitative",
+            "title": "Adult Survival Rate"
+        },
+        "y": {
+            "field": "HUMAN CAPITAL INDEX 2020",
+            "type": "quantitative",
+            "title": "Human Capital Index"
+        },
+        "color": {
+            "field": "git",
+            "type": "quantitative",
+            "title": "Human Capital Index"
+        },
+    },
     "params": [
         {
             "name": "Gender_selection",
