@@ -1,4 +1,4 @@
-﻿Gender ,Country Name,Population,Continent,Income Group,Probability of Survival to Age 5,Expected Years of School,Harmonized Test Scores,LearningNullAdjusted Years of School,Fraction of Children Under 5 Not Stunted,Adult Survival Rate,HUMAN CAPITAL INDEX 2020 (LOWER BOUND),HUMAN CAPITAL INDEX 2020,HUMAN CAPITAL INDEX 2020 (UPPER BOUND)
+﻿Gender ,Country Name,Population,Continent,Income Group,Probability of Survival to Age 5,Expected Years of School,Harmonized Test Scores,LearningNullAdjusted Years of School,Fraction of Children Under 5 Not Stunted,adultSurvivalRate,HUMAN CAPITAL INDEX 2020 (LOWER BOUND),HUMAN CAPITAL INDEX 2020,HUMAN CAPITAL INDEX 2020 (UPPER BOUND)
 Female,Afghanistan,38928341,Asia,Low income,0.94,6.9,350,3.9,0.62,0.81,0.36,0.37,0.38
 Female,Albania,2877800,Europe,Upper middle income,0.99,13.3,444,9.4,0.89,0.95,0.65,0.66,0.68
 Female,Algeria,43851043,Africa,Lower middle income,0.98,12.2,383,7.5,0.89,0.92,0.55,0.56,0.57
