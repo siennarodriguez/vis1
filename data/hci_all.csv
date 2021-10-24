@@ -1,0 +1,349 @@
+﻿Gender ,Country Name,WB Code,Region,Income Group,Probability of Survival to Age 5,Expected Years of School,Harmonized Test Scores,LearningNullAdjusted Years of School,Fraction of Children Under 5 Not Stunted,Adult Survival Rate,HUMAN CAPITAL INDEX 2020 (LOWER BOUND),HUMAN CAPITAL INDEX 2020,HUMAN CAPITAL INDEX 2020 (UPPER BOUND)
+Female,Afghanistan,AFG,South Asia,Low income,0.94,6.9,350,3.9,0.62,0.81,0.36,0.37,0.38
+Female,Albania,ALB,Europe & Central Asia,Upper middle income,0.99,13.3,444,9.4,0.89,0.95,0.65,0.66,0.68
+Female,Algeria,DZA,Middle East & North Africa,Lower middle income,0.98,12.2,383,7.5,0.89,0.92,0.55,0.56,0.57
+Female,Angola,AGO,SubNullSaharan Africa,Lower middle income,0.93,7,325,3.6,0.66,0.78,0.33,0.36,0.38
+Female,Antigua and Barbuda,ATG,Latin America & Caribbean,High income,0.99,13.3,417,8.9,Null,0.92,0.61,0.63,0.64
+Female,Argentina,ARG,Latin America & Caribbean,Upper middle income,0.99,13.1,406,8.5,0.92,0.92,0.6,0.61,0.62
+Female,Armenia,ARM,Europe & Central Asia,Upper middle income,0.99,11.5,448,8.3,0.92,0.94,0.59,0.6,0.61
+Female,Australia,AUS,East Asia & Pacific,High income,1,13.6,520,11.3,Null,0.96,0.77,0.78,0.79
+Female,Austria,AUT,Europe & Central Asia,High income,1,13.5,510,11,Null,0.96,0.75,0.76,0.77
+Female,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,0.98,12.4,420,8.3,0.82,0.91,0.57,0.59,0.6
+Female,Bahrain,BHR,Middle East & North Africa,High income,0.99,13.1,470,9.8,Null,0.94,0.68,0.69,0.69
+Female,Bangladesh,BGD,South Asia,Lower middle income,0.97,10.5,370,6.2,0.7,0.89,0.47,0.48,0.49
+Female,Belarus,BLR,Europe & Central Asia,Upper middle income,1,13.8,490,10.8,Null,0.92,0.72,0.73,0.74
+Female,Belgium,BEL,Europe & Central Asia,High income,1,13.6,517,11.2,Null,0.95,0.76,0.77,0.78
+Female,Benin,BEN,SubNullSaharan Africa,Lower middle income,0.91,8.8,384,5.4,Null,0.79,0.38,0.4,0.42
+Female,Bhutan,BTN,South Asia,Lower middle income,0.97,10.7,370,6.3,0.75,0.81,0.45,0.47,0.5
+Female,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,0.99,11.8,421,7.9,0.91,0.94,0.58,0.59,0.6
+Female,Botswana,BWA,SubNullSaharan Africa,Upper middle income,0.97,8.5,401,5.5,Null,0.84,0.41,0.44,0.46
+Female,Brazil,BRA,Latin America & Caribbean,Upper middle income,0.99,Null,416,Null,Null,0.91,Null,Null,Null
+Female,Brunei Darussalam,BRN,East Asia & Pacific,High income,0.99,13.3,445,9.5,0.8,0.9,0.64,0.64,0.65
+Female,Bulgaria,BGR,Europe & Central Asia,Upper middle income,0.99,12.2,451,8.8,0.93,0.92,0.62,0.63,0.64
+Female,Burkina Faso,BFA,SubNullSaharan Africa,Low income,0.93,7,400,4.5,0.78,0.78,0.37,0.39,0.41
+Female,Burundi,BDI,SubNullSaharan Africa,Low income,0.95,7.9,432,5.5,0.49,0.75,0.38,0.4,0.43
+Female,Cambodia,KHM,East Asia & Pacific,Lower middle income,0.98,9.6,Null,Null,0.68,0.87,Null,Null,Null
+Female,Cameroon,CMR,SubNullSaharan Africa,Lower middle income,0.93,8.3,383,5.1,0.73,0.72,0.37,0.4,0.42
+Female,Canada,CAN,North America,High income,1,13.7,539,11.8,Null,0.95,0.8,0.81,0.82
+Female,Central African Republic,CAF,SubNullSaharan Africa,Low income,0.89,3.8,Null,Null,0.61,0.63,Null,Null,Null
+Female,Chad,TCD,SubNullSaharan Africa,Low income,0.89,4.4,323,2.3,0.61,0.67,0.27,0.29,0.31
+Female,Chile,CHL,Latin America & Caribbean,High income,0.99,13.1,454,9.5,Null,0.94,0.65,0.67,0.68
+Female,China,CHN,East Asia & Pacific,Upper middle income,0.99,13.2,441,9.3,0.92,0.94,0.65,0.66,0.67
+Female,Colombia,COL,Latin America & Caribbean,Upper middle income,0.99,13,415,8.6,0.89,0.92,0.6,0.61,0.63
+Female,Comoros,COM,SubNullSaharan Africa,Lower middle income,0.94,8.4,387,5.2,0.71,0.81,0.37,0.41,0.44
+Female,"Congo, Dem. Rep.",COD,SubNullSaharan Africa,Low income,0.92,8.8,308,4.3,0.6,0.78,0.34,0.37,0.39
+Female,"Congo, Rep.",COG,SubNullSaharan Africa,Lower middle income,0.95,9.1,369,5.4,0.8,0.76,0.4,0.43,0.45
+Female,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,0.99,13.3,426,9,Null,0.94,0.63,0.64,0.65
+Female,Croatia,HRV,Europe & Central Asia,High income,1,13.6,492,10.7,Null,0.95,0.73,0.74,0.75
+Female,Cyprus,CYP,Europe & Central Asia,High income,1,13.6,500,10.9,Null,0.97,0.75,0.76,0.77
+Female,Czech Republic,CZE,Europe & Central Asia,High income,1,13.6,518,11.3,Null,0.95,0.76,0.77,0.78
+Female,CÃ´te d'Ivoire,CIV,SubNullSaharan Africa,Lower middle income,0.93,7.6,371,4.5,0.8,0.68,0.36,0.38,0.4
+Female,Denmark,DNK,Europe & Central Asia,High income,1,13.5,522,11.3,Null,0.95,0.76,0.77,0.78
+Female,Dominica,DMA,Latin America & Caribbean,Upper middle income,0.97,12.6,416,8.4,Null,0.9,0.56,0.58,0.59
+Female,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,0.97,12.1,353,6.8,0.94,0.89,0.51,0.52,0.54
+Female,Ecuador,ECU,Latin America & Caribbean,Upper middle income,0.99,13.2,421,8.9,0.78,0.91,0.6,0.61,0.62
+Female,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,0.98,11.6,368,6.8,0.79,0.9,0.5,0.51,0.53
+Female,El Salvador,SLV,Latin America & Caribbean,Lower middle income,0.99,11,439,7.8,0.88,0.9,0.55,0.57,0.58
+Female,Estonia,EST,Europe & Central Asia,High income,1,13.5,548,11.9,Null,0.94,0.8,0.81,0.82
+Female,Eswatini,SWZ,SubNullSaharan Africa,Lower middle income,0.95,6.8,Null,Null,0.78,0.7,Null,Null,Null
+Female,Ethiopia,ETH,SubNullSaharan Africa,Low income,0.95,7.5,344,4.1,0.66,0.82,0.37,0.38,0.39
+Female,Fiji,FJI,East Asia & Pacific,Upper middle income,0.98,11.4,400,7.3,0.91,0.83,0.52,0.53,0.55
+Female,Finland,FIN,Europe & Central Asia,High income,1,13.7,548,12,Null,0.96,0.82,0.83,0.84
+Female,France,FRA,Europe & Central Asia,High income,1,13.8,514,11.4,Null,0.95,0.77,0.78,0.79
+Female,Gabon,GAB,SubNullSaharan Africa,Upper middle income,0.96,8.5,454,6.2,0.85,0.82,0.45,0.47,0.5
+Female,"Gambia, The",GMB,SubNullSaharan Africa,Low income,0.95,9.8,354,5.6,0.84,0.78,0.41,0.44,0.46
+Female,Georgia,GEO,Europe & Central Asia,Upper middle income,0.99,13.1,410,8.6,Null,0.92,0.6,0.61,0.62
+Female,Germany,DEU,Europe & Central Asia,High income,1,13.3,521,11.1,Null,0.95,0.76,0.77,0.78
+Female,Ghana,GHA,SubNullSaharan Africa,Lower middle income,0.96,12.2,306,6,0.84,0.79,0.44,0.46,0.47
+Female,Greece,GRC,Europe & Central Asia,High income,1,13.3,478,10.2,Null,0.96,0.7,0.71,0.72
+Female,Grenada,GRD,Latin America & Caribbean,Upper middle income,0.99,13.3,409,8.7,Null,0.88,0.58,0.6,0.61
+Female,Guatemala,GTM,Latin America & Caribbean,Upper middle income,0.98,9.7,408,6.3,0.54,0.89,0.46,0.47,0.48
+Female,Guinea,GIN,SubNullSaharan Africa,Low income,0.9,6.2,397,3.9,0.73,0.77,0.34,0.36,0.37
+Female,Guyana,GUY,Latin America & Caribbean,Upper middle income,0.97,12.3,356,7,0.9,0.82,0.5,0.52,0.53
+Female,Haiti,HTI,Latin America & Caribbean,Low income,0.94,11.4,342,6.3,0.8,0.81,0.44,0.46,0.48
+Female,Honduras,HND,Latin America & Caribbean,Lower middle income,0.98,9.8,399,6.3,0.79,0.89,0.48,0.49,0.5
+Female,"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,0.99,13.8,557,12.3,Null,0.97,0.84,0.85,0.86
+Female,Hungary,HUN,Europe & Central Asia,High income,1,13,497,10.3,Null,0.93,0.7,0.71,0.72
+Female,Iceland,ISL,Europe & Central Asia,High income,1,13.5,508,11,Null,0.97,0.76,0.77,0.78
+Female,India,IND,South Asia,Lower middle income,0.96,11.2,399,7.2,0.66,0.85,0.5,0.5,0.51
+Female,Indonesia,IDN,East Asia & Pacific,Upper middle income,0.98,12.5,402,8,0.73,0.88,0.55,0.56,0.57
+Female,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,0.99,11.8,446,8.4,Null,0.95,0.6,0.61,0.62
+Female,Iraq,IRQ,Middle East & North Africa,Upper middle income,0.98,7.2,377,4.4,0.87,0.87,0.42,0.42,0.43
+Female,Ireland,IRL,Europe & Central Asia,High income,1,13.9,524,11.7,Null,0.96,0.79,0.8,0.81
+Female,Israel,ISR,Middle East & North Africa,High income,1,13.9,493,11,Null,0.96,0.75,0.76,0.78
+Female,Italy,ITA,Europe & Central Asia,High income,1,13.3,494,10.5,Null,0.96,0.73,0.74,0.75
+Female,Jamaica,JAM,Latin America & Caribbean,Upper middle income,0.99,11.6,404,7.5,0.95,0.9,0.54,0.56,0.58
+Female,Japan,JPN,East Asia & Pacific,High income,1,Null,539,Null,Null,0.96,Null,Null,Null
+Female,Jordan,JOR,Middle East & North Africa,Upper middle income,0.99,11.4,444,8.1,Null,0.91,0.57,0.58,0.59
+Female,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,0.99,13.8,422,9.3,0.92,0.91,0.64,0.65,0.66
+Female,Kenya,KEN,SubNullSaharan Africa,Lower middle income,0.96,11.4,Null,Null,0.78,0.81,Null,Null,Null
+Female,Kiribati,KIR,East Asia & Pacific,Lower middle income,0.95,11.8,426,8.1,Null,0.85,0.5,0.54,0.57
+Female,"Korea, Rep.",KOR,East Asia & Pacific,High income,1,13.6,540,11.7,Null,0.97,0.8,0.81,0.83
+Female,Kosovo,XKX,Europe & Central Asia,Upper middle income,0.99,13.2,378,8,Null,0.93,0.58,0.58,0.59
+Female,Kuwait,KWT,Middle East & North Africa,High income,0.99,12.5,398,8,Null,0.96,0.59,0.6,0.61
+Female,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,0.98,12.9,426,8.8,0.89,0.91,0.61,0.62,0.63
+Female,Lao PDR,LAO,East Asia & Pacific,Lower middle income,0.96,10.5,374,6.3,0.68,0.85,0.45,0.47,0.48
+Female,Latvia,LVA,Europe & Central Asia,High income,1,13.7,510,11.2,Null,0.91,0.74,0.75,0.76
+Female,Lebanon,LBN,Middle East & North Africa,Upper middle income,0.99,Null,395,Null,Null,0.95,Null,Null,Null
+Female,Lesotho,LSO,SubNullSaharan Africa,Lower middle income,0.93,10.4,Null,Null,0.67,0.59,Null,Null,Null
+Female,Liberia,LBR,SubNullSaharan Africa,Low income,0.93,4.2,328,2.2,0.72,0.8,0.31,0.32,0.34
+Female,Lithuania,LTU,Europe & Central Asia,High income,1,13.9,504,11.2,Null,0.92,0.75,0.76,0.77
+Female,Luxembourg,LUX,Europe & Central Asia,High income,1,12.5,497,9.9,Null,0.96,0.69,0.7,0.71
+Female,"Macao SAR, China",MAC,East Asia & Pacific,High income,0.99,13.1,564,11.8,Null,0.98,0.81,0.82,0.83
+Female,Madagascar,MDG,SubNullSaharan Africa,Low income,0.95,8.6,352,4.8,0.62,0.82,0.38,0.4,0.42
+Female,Malawi,MWI,SubNullSaharan Africa,Low income,0.96,9.6,Null,Null,0.63,0.79,Null,Null,Null
+Female,Malaysia,MYS,East Asia & Pacific,Upper middle income,0.99,12.7,452,9.2,0.79,0.92,0.62,0.63,0.65
+Female,Mali,MLI,SubNullSaharan Africa,Low income,0.91,4.9,307,2.4,0.74,0.76,0.31,0.32,0.33
+Female,Malta,MLT,Middle East & North Africa,High income,0.99,13.5,489,10.6,Null,0.97,0.73,0.74,0.75
+Female,"Marshall Islands, Rep.",MHL,East Asia & Pacific,Upper middle income,0.97,9.8,383,6,0.7,0.73,0.42,0.44,0.47
+Female,Mauritania,MRT,SubNullSaharan Africa,Lower middle income,0.93,7.9,343,4.4,0.8,0.83,0.36,0.39,0.42
+Female,Mauritius,MUS,SubNullSaharan Africa,High income,0.99,12.7,Null,Null,Null,0.91,Null,Null,Null
+Female,Mexico,MEX,Latin America & Caribbean,Upper middle income,0.99,13,428,8.9,0.91,0.9,0.62,0.63,0.64
+Female,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,0.97,11.9,395,7.5,Null,0.86,0.49,0.53,0.55
+Female,Moldova,MDA,Europe & Central Asia,Lower middle income,0.99,11.8,448,8.5,0.93,0.91,0.6,0.61,0.62
+Female,Mongolia,MNG,East Asia & Pacific,Lower middle income,0.99,13.2,434,9.2,0.92,0.88,0.62,0.64,0.65
+Female,Montenegro,MNE,Europe & Central Asia,Upper middle income,1,12.6,441,8.9,0.92,0.93,0.63,0.64,0.65
+Female,Morocco,MAR,Middle East & North Africa,Lower middle income,0.98,10.5,386,6.5,0.87,0.94,0.5,0.52,0.53
+Female,Mozambique,MOZ,SubNullSaharan Africa,Low income,0.93,Null,371,Null,0.62,0.74,Null,Null,Null
+Female,Myanmar,MMR,East Asia & Pacific,Lower middle income,0.96,10,431,6.9,0.72,0.85,0.48,0.49,0.51
+Female,Namibia,NAM,SubNullSaharan Africa,Upper middle income,0.96,9.7,Null,Null,0.8,0.76,Null,Null,Null
+Female,Nauru,NRU,East Asia & Pacific,High income,0.97,11.6,368,6.8,Null,0.95,0.51,0.53,0.55
+Female,Nepal,NPL,South Asia,Lower middle income,0.97,12.2,Null,Null,0.64,0.87,Null,Null,Null
+Female,Netherlands,NLD,Europe & Central Asia,High income,1,13.9,526,11.7,Null,0.96,0.8,0.81,0.82
+Female,New Zealand,NZL,East Asia & Pacific,High income,0.99,13.8,523,11.5,Null,0.95,0.78,0.79,0.8
+Female,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,0.98,11.1,392,7,0.84,0.9,0.52,0.53,0.54
+Female,Niger,NER,SubNullSaharan Africa,Low income,0.92,5,302,2.4,0.53,0.78,0.29,0.31,0.33
+Female,Nigeria,NGA,SubNullSaharan Africa,Lower middle income,0.89,10.1,308,5,0.66,0.68,0.34,0.37,0.39
+Female,North Macedonia,MKD,Europe & Central Asia,Upper middle income,0.99,11,427,7.5,0.96,0.94,0.57,0.57,0.58
+Female,Norway,NOR,Europe & Central Asia,High income,1,13.7,525,11.5,Null,0.96,0.78,0.79,0.8
+Female,Oman,OMN,Middle East & North Africa,High income,0.99,13,444,9.2,Null,0.94,0.63,0.65,0.66
+Female,Pakistan,PAK,South Asia,Lower middle income,0.94,8.7,343,4.8,0.63,0.86,0.39,0.4,0.41
+Female,Palau,PLW,East Asia & Pacific,High income,0.98,11.8,478,9,Null,0.89,0.59,0.62,0.63
+Female,Panama,PAN,Latin America & Caribbean,High income,0.99,10.9,378,6.6,Null,0.92,0.51,0.52,0.53
+Female,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,0.96,9.8,367,5.8,0.52,0.81,0.41,0.43,0.44
+Female,Paraguay,PRY,Latin America & Caribbean,Upper middle income,0.98,11.3,383,6.9,0.96,0.88,0.51,0.53,0.55
+Female,Peru,PER,Latin America & Caribbean,Upper middle income,0.99,12.9,412,8.5,0.88,0.92,0.59,0.6,0.62
+Female,Philippines,PHL,East Asia & Pacific,Lower middle income,0.97,13.2,368,7.8,0.71,0.87,0.52,0.54,0.55
+Female,Poland,POL,Europe & Central Asia,High income,1,13.5,535,11.5,Null,0.94,0.78,0.79,0.8
+Female,Portugal,PRT,Europe & Central Asia,High income,1,13.8,510,11.3,Null,0.96,0.77,0.78,0.79
+Female,Qatar,QAT,Middle East & North Africa,High income,0.99,13,450,9.3,Null,0.97,0.66,0.67,0.68
+Female,Romania,ROU,Europe & Central Asia,High income,0.99,11.9,447,8.5,Null,0.93,0.6,0.61,0.62
+Female,Russian Federation,RUS,Europe & Central Asia,Upper middle income,0.99,13.7,501,11,Null,0.89,0.72,0.73,0.74
+Female,Rwanda,RWA,SubNullSaharan Africa,Low income,0.97,7.1,365,4.1,0.67,0.84,0.38,0.39,0.41
+Female,Samoa,WSM,East Asia & Pacific,Upper middle income,0.99,12.6,387,7.8,0.96,0.92,0.57,0.58,0.59
+Female,Saudi Arabia,SAU,Middle East & North Africa,High income,0.99,12.3,416,8.2,Null,0.93,0.58,0.6,0.61
+Female,Senegal,SEN,SubNullSaharan Africa,Lower middle income,0.96,7.9,408,5.2,0.83,0.86,0.42,0.44,0.46
+Female,Serbia,SRB,Europe & Central Asia,Upper middle income,0.99,13.4,464,9.9,0.95,0.93,0.68,0.7,0.71
+Female,Seychelles,SYC,SubNullSaharan Africa,High income,0.99,13.4,Null,Null,Null,0.9,Null,Null,Null
+Female,Sierra Leone,SLE,SubNullSaharan Africa,Low income,0.9,9.7,314,4.9,0.73,0.65,0.35,0.37,0.39
+Female,Singapore,SGP,East Asia & Pacific,High income,1,13.9,578,12.9,Null,0.97,0.88,0.89,0.9
+Female,Slovak Republic,SVK,Europe & Central Asia,High income,0.99,12.6,491,9.9,Null,0.94,0.68,0.69,0.7
+Female,Slovenia,SVN,Europe & Central Asia,High income,1,13.7,530,11.6,Null,0.96,0.79,0.8,0.81
+Female,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,0.98,8.5,363,4.9,0.7,0.88,0.42,0.43,0.45
+Female,South Africa,ZAF,SubNullSaharan Africa,Upper middle income,0.97,10.1,359,5.8,0.75,0.76,0.43,0.45,0.46
+Female,South Sudan,SSD,SubNullSaharan Africa,Low income,0.91,3.9,Null,Null,0.71,0.7,Null,Null,Null
+Female,Spain,ESP,Europe & Central Asia,High income,1,13.1,504,10.6,Null,0.97,0.73,0.74,0.75
+Female,Sri Lanka,LKA,South Asia,Lower middle income,0.99,13.3,Null,Null,0.83,0.94,Null,Null,Null
+Female,St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,0.99,12.6,415,8.4,Null,0.92,0.59,0.6,0.61
+Female,St. Lucia,LCA,Latin America & Caribbean,Upper middle income,0.99,12.9,426,8.8,0.99,0.9,0.61,0.63,0.64
+Female,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,0.99,12.9,397,8.2,Null,0.88,0.56,0.57,0.58
+Female,Sudan,SDN,SubNullSaharan Africa,Low income,0.94,6.9,389,4.3,0.64,0.82,0.37,0.39,0.4
+Female,Sweden,SWE,Europe & Central Asia,High income,1,13.9,527,11.7,Null,0.96,0.8,0.81,0.82
+Female,Switzerland,CHE,Europe & Central Asia,High income,1,13.2,519,11,Null,0.97,0.75,0.76,0.78
+Female,Tajikistan,TJK,Europe & Central Asia,Low income,0.97,10.4,Null,Null,0.83,0.91,Null,Null,Null
+Female,Tanzania,TZA,SubNullSaharan Africa,Lower middle income,0.95,7.3,395,4.6,0.7,0.81,0.39,0.4,0.41
+Female,Thailand,THA,East Asia & Pacific,Upper middle income,0.99,12.7,439,8.9,0.91,0.92,0.62,0.63,0.64
+Female,TimorNullLeste,TLS,East Asia & Pacific,Lower middle income,0.96,10.9,378,6.6,0.57,0.88,0.45,0.47,0.49
+Female,Togo,TGO,SubNullSaharan Africa,Low income,0.94,9.4,383,5.8,0.77,0.76,0.4,0.43,0.45
+Female,Tonga,TON,East Asia & Pacific,Upper middle income,0.98,11.8,399,7.6,0.92,0.88,0.54,0.56,0.57
+Female,Trinidad and Tobago,TTO,Latin America & Caribbean,High income,0.98,Null,471,Null,Null,0.89,Null,Null,Null
+Female,Tunisia,TUN,Middle East & North Africa,Lower middle income,0.98,11.2,386,6.9,0.91,0.93,0.53,0.54,0.55
+Female,Turkey,TUR,Europe & Central Asia,Upper middle income,0.99,12,483,9.3,0.95,0.94,0.65,0.66,0.67
+Female,Tuvalu,TUV,East Asia & Pacific,Upper middle income,0.98,11,361,6.4,Null,0.81,0.45,0.47,0.49
+Female,Uganda,UGA,SubNullSaharan Africa,Low income,0.96,Null,Null,Null,0.73,0.77,Null,Null,Null
+Female,Ukraine,UKR,Europe & Central Asia,Lower middle income,0.99,13,482,10,Null,0.9,0.66,0.68,0.69
+Female,United Arab Emirates,ARE,Middle East & North Africa,High income,0.99,13.2,463,9.8,Null,0.96,0.68,0.69,0.7
+Female,United Kingdom,GBR,Europe & Central Asia,High income,1,13.9,521,11.6,Null,0.95,0.78,0.79,0.8
+Female,United States,USA,North America,High income,0.99,12.9,514,10.6,Null,0.92,0.71,0.72,0.73
+Female,Uruguay,URY,Latin America & Caribbean,High income,0.99,12.5,439,8.8,Null,0.92,0.61,0.62,0.63
+Female,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,0.98,12,474,9.1,0.9,0.9,0.61,0.63,0.65
+Female,Vanuatu,VUT,East Asia & Pacific,Lower middle income,0.98,10.1,356,5.8,0.76,0.9,0.45,0.47,0.48
+Female,Vietnam,VNM,East Asia & Pacific,Lower middle income,0.98,13.2,524,11,0.77,0.92,0.71,0.73,0.75
+Female,West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,0.98,12.5,424,8.5,0.93,0.91,0.59,0.61,0.62
+Female,"Yemen, Rep.",YEM,Middle East & North Africa,Low income,0.95,7.4,322,3.8,0.55,0.83,0.35,0.37,0.38
+Female,Zambia,ZMB,SubNullSaharan Africa,Lower middle income,0.95,8.8,Null,Null,0.69,0.78,Null,Null,Null
+Female,Zimbabwe,ZWE,SubNullSaharan Africa,Lower middle income,0.96,11,Null,Null,0.8,0.67,Null,Null,Null
+Male,Afghanistan,AFG,South Asia,Low income,0.93,9.7,358,5.5,0.62,0.77,0.39,0.41,0.43
+Male,Albania,ALB,Europe & Central Asia,Upper middle income,0.99,12.6,424,8.5,0.88,0.91,0.6,0.61,0.62
+Male,Algeria,DZA,Middle East & North Africa,Lower middle income,0.98,11.5,366,6.7,0.87,0.9,0.51,0.52,0.52
+Male,Angola,AGO,SubNullSaharan Africa,Lower middle income,0.92,9.2,327,4.8,0.59,0.68,0.33,0.37,0.4
+Male,Antigua and Barbuda,ATG,Latin America & Caribbean,High income,0.99,12.7,397,8,Null,0.87,0.55,0.57,0.58
+Male,Argentina,ARG,Latin America & Caribbean,Upper middle income,0.99,12.7,410,8.3,0.92,0.85,0.58,0.59,0.6
+Male,Armenia,ARM,Europe & Central Asia,Upper middle income,0.99,11.1,439,7.8,0.89,0.83,0.54,0.56,0.57
+Male,Australia,AUS,East Asia & Pacific,High income,1,13.6,512,11.1,Null,0.93,0.75,0.76,0.77
+Male,Austria,AUT,Europe & Central Asia,High income,1,13.4,506,10.8,Null,0.92,0.72,0.73,0.75
+Male,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,0.98,12.5,412,8.2,0.82,0.85,0.55,0.57,0.58
+Male,Bahrain,BHR,Middle East & North Africa,High income,0.99,12.7,434,8.8,Null,0.93,0.61,0.62,0.63
+Male,Bangladesh,BGD,South Asia,Lower middle income,0.97,9.8,367,5.8,0.69,0.85,0.44,0.45,0.46
+Male,Belarus,BLR,Europe & Central Asia,Upper middle income,1,13.8,486,10.8,Null,0.78,0.65,0.67,0.68
+Male,Belgium,BEL,Europe & Central Asia,High income,1,13.5,516,11.1,Null,0.91,0.74,0.75,0.76
+Male,Benin,BEN,SubNullSaharan Africa,Lower middle income,0.9,9.6,384,5.9,Null,0.74,0.37,0.4,0.43
+Male,Bhutan,BTN,South Asia,Lower middle income,0.97,9.8,389,6.1,0.82,0.81,0.44,0.47,0.49
+Male,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,0.99,11.7,412,7.7,0.91,0.89,0.56,0.57,0.58
+Male,Botswana,BWA,SubNullSaharan Africa,Upper middle income,0.96,7.7,381,4.7,Null,0.75,0.36,0.39,0.41
+Male,Brazil,BRA,Latin America & Caribbean,Upper middle income,0.98,Null,410,Null,Null,0.81,Null,Null,Null
+Male,Brunei Darussalam,BRN,East Asia & Pacific,High income,0.99,13,430,9,0.8,0.86,0.6,0.61,0.62
+Male,Bulgaria,BGR,Europe & Central Asia,Upper middle income,0.99,12.4,432,8.6,0.93,0.82,0.58,0.6,0.61
+Male,Burkina Faso,BFA,SubNullSaharan Africa,Low income,0.92,7,407,4.6,0.72,0.74,0.36,0.38,0.4
+Male,Burundi,BDI,SubNullSaharan Africa,Low income,0.94,7.4,415,4.9,0.42,0.69,0.35,0.37,0.39
+Male,Cambodia,KHM,East Asia & Pacific,Lower middle income,0.97,9.3,Null,Null,0.67,0.8,Null,Null,Null
+Male,Cameroon,CMR,SubNullSaharan Africa,Lower middle income,0.92,9.1,376,5.5,0.69,0.69,0.37,0.4,0.42
+Male,Canada,CAN,North America,High income,0.99,13.7,530,11.6,Null,0.93,0.78,0.79,0.79
+Male,Central African Republic,CAF,SubNullSaharan Africa,Low income,0.88,5.3,Null,Null,0.57,0.55,Null,Null,Null
+Male,Chad,TCD,SubNullSaharan Africa,Low income,0.87,6.2,338,3.4,0.59,0.62,0.29,0.31,0.33
+Male,Chile,CHL,Latin America & Caribbean,High income,0.99,13,451,9.3,Null,0.89,0.62,0.64,0.65
+Male,China,CHN,East Asia & Pacific,Upper middle income,0.99,13.1,441,9.2,0.92,0.91,0.63,0.65,0.66
+Male,Colombia,COL,Latin America & Caribbean,Upper middle income,0.98,12.8,423,8.6,0.86,0.85,0.58,0.59,0.61
+Male,Comoros,COM,SubNullSaharan Africa,Lower middle income,0.93,8,400,5.1,0.67,0.76,0.35,0.4,0.43
+Male,"Congo, Dem. Rep.",COD,SubNullSaharan Africa,Low income,0.91,9.5,312,4.7,0.55,0.73,0.34,0.37,0.39
+Male,"Congo, Rep.",COG,SubNullSaharan Africa,Lower middle income,0.95,8.7,372,5.2,0.78,0.72,0.38,0.41,0.43
+Male,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,0.99,13,431,9,Null,0.89,0.61,0.62,0.63
+Male,Croatia,HRV,Europe & Central Asia,High income,0.99,13.2,483,10.2,Null,0.88,0.67,0.68,0.69
+Male,Cyprus,CYP,Europe & Central Asia,High income,1,13.6,504,10.9,Null,0.94,0.74,0.75,0.76
+Male,Czech Republic,CZE,Europe & Central Asia,High income,1,13.5,507,11,Null,0.9,0.72,0.73,0.74
+Male,CÃ´te d'Ivoire,CIV,SubNullSaharan Africa,Lower middle income,0.91,8.5,375,5.1,0.77,0.64,0.36,0.38,0.4
+Male,Denmark,DNK,Europe & Central Asia,High income,1,13.3,513,10.9,Null,0.92,0.73,0.74,0.75
+Male,Dominica,DMA,Latin America & Caribbean,Upper middle income,0.96,12.2,393,7.7,Null,0.83,0.5,0.52,0.53
+Male,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,0.97,11.7,338,6.3,0.92,0.8,0.47,0.48,0.5
+Male,Ecuador,ECU,Latin America & Caribbean,Upper middle income,0.98,12.7,419,8.5,0.74,0.84,0.57,0.58,0.59
+Male,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,0.98,11.4,344,6.3,0.76,0.82,0.46,0.48,0.49
+Male,El Salvador,SLV,Latin America & Caribbean,Lower middle income,0.98,10.9,433,7.5,0.85,0.73,0.5,0.52,0.54
+Male,Estonia,EST,Europe & Central Asia,High income,1,13.4,539,11.6,Null,0.85,0.73,0.75,0.76
+Male,Eswatini,SWZ,SubNullSaharan Africa,Lower middle income,0.94,6.1,Null,Null,0.71,0.53,Null,Null,Null
+Male,Ethiopia,ETH,SubNullSaharan Africa,Low income,0.94,8.1,352,4.6,0.6,0.77,0.37,0.38,0.39
+Male,Fiji,FJI,East Asia & Pacific,Upper middle income,0.97,11.2,368,6.6,0.91,0.74,0.47,0.49,0.5
+Male,Finland,FIN,Europe & Central Asia,High income,1,13.7,520,11.4,Null,0.91,0.75,0.76,0.78
+Male,France,FRA,Europe & Central Asia,High income,1,13.8,507,11.2,Null,0.9,0.73,0.75,0.76
+Male,Gabon,GAB,SubNullSaharan Africa,Upper middle income,0.95,7.9,458,5.8,0.81,0.76,0.41,0.44,0.47
+Male,"Gambia, The",GMB,SubNullSaharan Africa,Low income,0.94,9.2,352,5.2,0.78,0.72,0.38,0.41,0.43
+Male,Georgia,GEO,Europe & Central Asia,Upper middle income,0.99,12.8,391,8,Null,0.78,0.52,0.53,0.54
+Male,Germany,DEU,Europe & Central Asia,High income,1,13.3,514,11,Null,0.91,0.72,0.74,0.75
+Male,Ghana,GHA,SubNullSaharan Africa,Lower middle income,0.95,12,308,5.9,0.81,0.75,0.43,0.44,0.46
+Male,Greece,GRC,Europe & Central Asia,High income,1,13.3,460,9.8,Null,0.91,0.66,0.67,0.68
+Male,Grenada,GRD,Latin America & Caribbean,Upper middle income,0.98,12.9,380,7.9,Null,0.82,0.52,0.54,0.55
+Male,Guatemala,GTM,Latin America & Caribbean,Upper middle income,0.97,9.7,402,6.3,0.53,0.8,0.44,0.45,0.46
+Male,Guinea,GIN,SubNullSaharan Africa,Low income,0.89,7.8,417,5.2,0.66,0.74,0.36,0.38,0.4
+Male,Guyana,GUY,Latin America & Caribbean,Upper middle income,0.97,12.1,338,6.5,0.87,0.73,0.46,0.48,0.49
+Male,Haiti,HTI,Latin America & Caribbean,Low income,0.93,11.3,333,6,0.76,0.75,0.41,0.43,0.45
+Male,Honduras,HND,Latin America & Caribbean,Lower middle income,0.98,9.4,401,6,0.76,0.83,0.45,0.47,0.48
+Male,"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,0.99,13.3,541,11.5,Null,0.94,0.77,0.78,0.79
+Male,Hungary,HUN,Europe & Central Asia,High income,1,13,494,10.2,Null,0.83,0.65,0.66,0.67
+Male,Iceland,ISL,Europe & Central Asia,High income,1,13.4,488,10.4,Null,0.94,0.72,0.72,0.73
+Male,India,IND,South Asia,Lower middle income,0.96,11,399,7.1,0.65,0.8,0.48,0.49,0.49
+Male,Indonesia,IDN,East Asia & Pacific,Upper middle income,0.97,12.3,388,7.6,0.72,0.82,0.51,0.52,0.54
+Male,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,0.98,11.9,420,8,Null,0.92,0.56,0.58,0.59
+Male,Iraq,IRQ,Middle East & North Africa,Upper middle income,0.97,6.7,353,3.8,0.88,0.82,0.39,0.4,0.4
+Male,Ireland,IRL,Europe & Central Asia,High income,1,13.9,518,11.5,Null,0.93,0.77,0.78,0.79
+Male,Israel,ISR,Middle East & North Africa,High income,1,13.6,467,10.2,Null,0.94,0.69,0.7,0.72
+Male,Italy,ITA,Europe & Central Asia,High income,1,13.2,492,10.4,Null,0.94,0.71,0.72,0.73
+Male,Jamaica,JAM,Latin America & Caribbean,Upper middle income,0.98,11.2,372,6.7,0.93,0.83,0.49,0.51,0.53
+Male,Japan,JPN,East Asia & Pacific,High income,1,Null,537,Null,Null,0.93,Null,Null,Null
+Male,Jordan,JOR,Middle East & North Africa,Upper middle income,0.98,10.9,415,7.2,Null,0.88,0.51,0.53,0.54
+Male,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,0.99,13.6,411,8.9,0.92,0.78,0.6,0.61,0.61
+Male,Kenya,KEN,SubNullSaharan Africa,Lower middle income,0.96,11.9,Null,Null,0.7,0.74,Null,Null,Null
+Male,Kiribati,KIR,East Asia & Pacific,Lower middle income,0.94,10.6,396,6.7,Null,0.77,0.42,0.45,0.48
+Male,"Korea, Rep.",KOR,East Asia & Pacific,High income,1,13.6,535,11.6,Null,0.92,0.77,0.78,0.8
+Male,Kosovo,XKX,Europe & Central Asia,Upper middle income,0.98,13.1,369,7.8,Null,0.88,0.54,0.55,0.56
+Male,Kuwait,KWT,Middle East & North Africa,High income,0.99,11.6,369,6.8,Null,0.93,0.52,0.53,0.55
+Male,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,0.98,12.9,414,8.5,0.87,0.79,0.57,0.58,0.59
+Male,Lao PDR,LAO,East Asia & Pacific,Lower middle income,0.95,10.7,363,6.2,0.66,0.8,0.43,0.45,0.46
+Male,Latvia,LVA,Europe & Central Asia,High income,1,13.5,498,10.8,Null,0.78,0.65,0.66,0.68
+Male,Lebanon,LBN,Middle East & North Africa,Upper middle income,0.99,Null,384,Null,Null,0.92,Null,Null,Null
+Male,Lesotho,LSO,SubNullSaharan Africa,Lower middle income,0.91,9.7,Null,Null,0.63,0.46,Null,Null,Null
+Male,Liberia,LBR,SubNullSaharan Africa,Low income,0.92,4.1,335,2.2,0.68,0.76,0.3,0.31,0.33
+Male,Lithuania,LTU,Europe & Central Asia,High income,1,13.8,488,10.8,Null,0.77,0.65,0.66,0.67
+Male,Luxembourg,LUX,Europe & Central Asia,High income,1,12.4,489,9.7,Null,0.93,0.66,0.67,0.68
+Male,"Macao SAR, China",MAC,East Asia & Pacific,High income,0.99,12.8,557,11.4,Null,0.94,0.77,0.77,0.78
+Male,Madagascar,MDG,SubNullSaharan Africa,Low income,0.94,8.2,350,4.6,0.55,0.77,0.36,0.38,0.4
+Male,Malawi,MWI,SubNullSaharan Africa,Low income,0.95,9.5,Null,Null,0.59,0.68,Null,Null,Null
+Male,Malaysia,MYS,East Asia & Pacific,Upper middle income,0.99,12.3,439,8.6,0.79,0.84,0.58,0.59,0.6
+Male,Mali,MLI,SubNullSaharan Africa,Low income,0.9,5.6,307,2.7,0.72,0.74,0.31,0.32,0.33
+Male,Malta,MLT,Middle East & North Africa,High income,0.99,13.4,461,9.8,Null,0.94,0.68,0.68,0.69
+Male,"Marshall Islands, Rep.",MHL,East Asia & Pacific,Upper middle income,0.96,9.1,368,5.4,0.61,0.67,0.38,0.4,0.43
+Male,Mauritania,MRT,SubNullSaharan Africa,Lower middle income,0.92,7.5,340,4.1,0.74,0.78,0.33,0.37,0.4
+Male,Mauritius,MUS,SubNullSaharan Africa,High income,0.98,12.2,Null,Null,Null,0.81,Null,Null,Null
+Male,Mexico,MEX,Latin America & Caribbean,Upper middle income,0.99,12.7,432,8.8,0.89,0.82,0.59,0.6,0.61
+Male,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,0.97,11.8,371,7,Null,0.82,0.45,0.49,0.52
+Male,Moldova,MDA,Europe & Central Asia,Lower middle income,0.98,11.8,430,8.1,0.94,0.76,0.55,0.56,0.57
+Male,Mongolia,MNG,East Asia & Pacific,Lower middle income,0.98,13.1,435,9.1,0.89,0.71,0.57,0.59,0.61
+Male,Montenegro,MNE,Europe & Central Asia,Upper middle income,1,12.9,432,8.9,0.9,0.88,0.61,0.63,0.64
+Male,Morocco,MAR,Middle East & North Africa,Lower middle income,0.98,10.3,375,6.2,0.83,0.93,0.48,0.49,0.51
+Male,Mozambique,MOZ,SubNullSaharan Africa,Low income,0.92,Null,365,Null,0.53,0.62,Null,Null,Null
+Male,Myanmar,MMR,East Asia & Pacific,Lower middle income,0.95,9.9,418,6.7,0.69,0.75,0.44,0.46,0.48
+Male,Namibia,NAM,SubNullSaharan Africa,Upper middle income,0.96,9.1,Null,Null,0.75,0.66,Null,Null,Null
+Male,Nauru,NRU,East Asia & Pacific,High income,0.96,11.9,320,6.1,Null,0.91,0.46,0.48,0.51
+Male,Nepal,NPL,South Asia,Lower middle income,0.97,12.3,Null,Null,0.64,0.84,Null,Null,Null
+Male,Netherlands,NLD,Europe & Central Asia,High income,1,13.8,514,11.4,Null,0.94,0.76,0.77,0.79
+Male,New Zealand,NZL,East Asia & Pacific,High income,0.99,13.6,517,11.3,Null,0.93,0.75,0.76,0.77
+Male,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,0.98,10.4,392,6.5,0.82,0.8,0.48,0.49,0.5
+Male,Niger,NER,SubNullSaharan Africa,Low income,0.91,5.9,307,2.9,0.5,0.75,0.29,0.32,0.34
+Male,Nigeria,NGA,SubNullSaharan Africa,Lower middle income,0.87,10.3,310,5.1,0.61,0.64,0.33,0.36,0.38
+Male,North Macedonia,MKD,Europe & Central Asia,Upper middle income,0.99,11.1,401,7.1,0.94,0.88,0.53,0.54,0.55
+Male,Norway,NOR,Europe & Central Asia,High income,1,13.7,503,11,Null,0.93,0.74,0.75,0.76
+Male,Oman,OMN,Middle East & North Africa,High income,0.99,12.6,404,8.1,Null,0.9,0.56,0.58,0.59
+Male,Pakistan,PAK,South Asia,Lower middle income,0.93,10,335,5.4,0.62,0.83,0.39,0.41,0.43
+Male,Palau,PLW,East Asia & Pacific,High income,0.98,11.7,448,8.4,Null,0.84,0.54,0.56,0.58
+Male,Panama,PAN,Latin America & Caribbean,High income,0.98,10.6,376,6.4,Null,0.85,0.47,0.49,0.5
+Male,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,0.95,10.8,359,6.2,0.49,0.75,0.41,0.43,0.45
+Male,Paraguay,PRY,Latin America & Caribbean,Upper middle income,0.98,11.3,388,7.1,0.93,0.84,0.5,0.53,0.54
+Male,Peru,PER,Latin America & Caribbean,Upper middle income,0.98,13.1,418,8.8,0.88,0.86,0.59,0.61,0.62
+Male,Philippines,PHL,East Asia & Pacific,Lower middle income,0.97,12.8,354,7.2,0.69,0.77,0.48,0.49,0.51
+Male,Poland,POL,Europe & Central Asia,High income,1,13.4,525,11.2,Null,0.85,0.71,0.72,0.73
+Male,Portugal,PRT,Europe & Central Asia,High income,1,14,507,11.3,Null,0.9,0.74,0.76,0.77
+Male,Qatar,QAT,Middle East & North Africa,High income,0.99,12.7,406,8.3,Null,0.96,0.6,0.61,0.62
+Male,Romania,ROU,Europe & Central Asia,High income,0.99,11.8,437,8.2,Null,0.83,0.55,0.56,0.57
+Male,Russian Federation,RUS,Europe & Central Asia,Upper middle income,0.99,13.7,494,10.8,Null,0.72,0.63,0.64,0.65
+Male,Rwanda,RWA,SubNullSaharan Africa,Low income,0.96,6.6,351,3.7,0.57,0.79,0.35,0.37,0.38
+Male,Samoa,WSM,East Asia & Pacific,Upper middle income,0.98,11.9,354,6.7,0.94,0.86,0.51,0.52,0.53
+Male,Saudi Arabia,SAU,Middle East & North Africa,High income,0.99,12.4,383,7.6,Null,0.91,0.54,0.56,0.57
+Male,Senegal,SEN,SubNullSaharan Africa,Lower middle income,0.95,6.8,417,4.5,0.79,0.79,0.38,0.4,0.42
+Male,Serbia,SRB,Europe & Central Asia,Upper middle income,0.99,13.3,451,9.6,0.93,0.86,0.64,0.66,0.67
+Male,Seychelles,SYC,SubNullSaharan Africa,High income,0.98,12.7,Null,Null,Null,0.8,Null,Null,Null
+Male,Sierra Leone,SLE,SubNullSaharan Africa,Low income,0.89,9.5,318,4.8,0.68,0.61,0.34,0.36,0.38
+Male,Singapore,SGP,East Asia & Pacific,High income,1,13.9,573,12.8,Null,0.94,0.86,0.87,0.88
+Male,Slovak Republic,SVK,Europe & Central Asia,High income,0.99,12.6,479,9.7,Null,0.86,0.63,0.64,0.65
+Male,Slovenia,SVN,Europe & Central Asia,High income,1,13.6,512,11.1,Null,0.91,0.74,0.75,0.76
+Male,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,0.98,8.2,339,4.5,0.66,0.84,0.39,0.41,0.42
+Male,South Africa,ZAF,SubNullSaharan Africa,Upper middle income,0.96,10.2,328,5.4,0.7,0.63,0.39,0.41,0.42
+Male,South Sudan,SSD,SubNullSaharan Africa,Low income,0.9,5.4,Null,Null,0.67,0.65,Null,Null,Null
+Male,Spain,ESP,Europe & Central Asia,High income,1,12.9,509,10.5,Null,0.93,0.71,0.72,0.72
+Male,Sri Lanka,LKA,South Asia,Lower middle income,0.99,13.2,Null,Null,0.83,0.85,Null,Null,Null
+Male,St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,0.99,13.3,404,8.6,Null,0.83,0.56,0.57,0.59
+Male,St. Lucia,LCA,Latin America & Caribbean,Upper middle income,0.98,12.5,409,8.2,0.96,0.83,0.56,0.58,0.6
+Male,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,0.98,11.8,386,7.3,Null,0.79,0.49,0.5,0.51
+Male,Sudan,SDN,SubNullSaharan Africa,Low income,0.93,7.2,371,4.3,0.6,0.76,0.35,0.37,0.39
+Male,Sweden,SWE,Europe & Central Asia,High income,1,14,512,11.4,Null,0.94,0.77,0.78,0.79
+Male,Switzerland,CHE,Europe & Central Asia,High income,1,13.3,511,10.9,Null,0.94,0.74,0.75,0.76
+Male,Tajikistan,TJK,Europe & Central Asia,Low income,0.96,11.3,Null,Null,0.82,0.84,Null,Null,Null
+Male,Tanzania,TZA,SubNullSaharan Africa,Lower middle income,0.94,7.1,382,4.3,0.66,0.75,0.36,0.38,0.39
+Male,Thailand,THA,East Asia & Pacific,Upper middle income,0.99,12.8,413,8.4,0.88,0.82,0.57,0.59,0.6
+Male,TimorNullLeste,TLS,East Asia & Pacific,Lower middle income,0.95,10.3,366,6,0.52,0.83,0.41,0.44,0.46
+Male,Togo,TGO,SubNullSaharan Africa,Low income,0.92,10.1,384,6.2,0.76,0.73,0.41,0.43,0.46
+Male,Tonga,TON,East Asia & Pacific,Upper middle income,0.99,11.3,375,6.8,0.92,0.79,0.49,0.51,0.53
+Male,Trinidad and Tobago,TTO,Latin America & Caribbean,High income,0.98,Null,445,Null,Null,0.81,Null,Null,Null
+Male,Tunisia,TUN,Middle East & North Africa,Lower middle income,0.98,10,381,6.1,0.92,0.89,0.49,0.5,0.51
+Male,Turkey,TUR,Europe & Central Asia,Upper middle income,0.99,12.1,473,9.2,0.93,0.88,0.63,0.64,0.65
+Male,Tuvalu,TUV,East Asia & Pacific,Upper middle income,0.97,10.6,332,5.6,Null,0.76,0.4,0.43,0.45
+Male,Uganda,UGA,SubNullSaharan Africa,Low income,0.95,Null,Null,Null,0.69,0.7,Null,Null,Null
+Male,Ukraine,UKR,Europe & Central Asia,Lower middle income,0.99,12.8,474,9.7,Null,0.73,0.58,0.59,0.6
+Male,United Arab Emirates,ARE,Middle East & North Africa,High income,0.99,13.7,432,9.5,Null,0.93,0.65,0.66,0.67
+Male,United Kingdom,GBR,Europe & Central Asia,High income,1,13.9,520,11.5,Null,0.92,0.76,0.77,0.78
+Male,United States,USA,North America,High income,0.99,12.8,510,10.5,Null,0.86,0.67,0.68,0.7
+Male,Uruguay,URY,Latin America & Caribbean,High income,0.99,11.9,436,8.3,Null,0.86,0.56,0.57,0.59
+Male,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,0.98,12.1,475,9.2,0.89,0.83,0.59,0.61,0.64
+Male,Vanuatu,VUT,East Asia & Pacific,Lower middle income,0.97,10.1,340,5.5,0.67,0.85,0.42,0.44,0.46
+Male,Vietnam,VNM,East Asia & Pacific,Lower middle income,0.98,12.5,514,10.3,0.75,0.81,0.63,0.65,0.68
+Male,West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,0.98,11.9,399,7.6,0.92,0.88,0.54,0.55,0.57
+Male,"Yemen, Rep.",YEM,Middle East & North Africa,Low income,0.94,8.8,321,4.5,0.52,0.78,0.36,0.38,0.39
+Male,Zambia,ZMB,SubNullSaharan Africa,Lower middle income,0.94,8.8,Null,Null,0.62,0.68,Null,Null,Null
+Male,Zimbabwe,ZWE,SubNullSaharan Africa,Lower middle income,0.95,11.1,Null,Null,0.73,0.63,Null,Null,Null
