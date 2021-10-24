@@ -1,0 +1,31 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "title": "Human Capital Index per Gender 2020",
+    "data": {
+      "url": "https://raw.githubusercontent.com/siennarodriguez/vis1/main/data/hci_all.csv"
+    },
+    "params": [
+        {
+            "name": "Gender_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Female",
+                    "Male"
+                ],
+                "labels": [
+                    "Show All",
+                    "Female",
+                    "Male"
+                ],
+                "name": "Gender Selection: "
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "Gender_selection == null || datum.Gender == Gender_selection" }
+    ]
+}
