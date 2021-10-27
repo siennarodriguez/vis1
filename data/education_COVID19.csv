@@ -1,4 +1,4 @@
-Country Name,If Closed due to COVID19 When,Income Level,Region Name,School Status,Year Pre,Year Prm,Year Sec,Year Ter,Latitude,Longitude,Total Enrollment,Total students in Pre Primary,Total students in Primary,No. of students in Secondary,No. of students in Tertiary,Enrollment Txt,Se Pre Enrl,Se Prm Enrl,Seconday Enrollment,Tertiary Enrollment
+Country Name,If Closed due to COVID19 When,Income Level,Region Name,School Status,Year Pre,Year Prm,Year Sec,Year Ter,Latitude,Longitude,Total Enrollment,Total Pre Primary,Total students in Primary,No. of students in Secondary,No. of students in Tertiary,Enrollment Txt,Se Pre Enrl,Se Prm Enrl,Seconday Enrollment,Tertiary Enrollment
 Eritrea,,Low income,Sub-Saharan Africa,Closed,2018,2018,2018,2016,15.982,38.02,667452,47047,349753,260421,10231,"6,67,452","47,047","3,49,753","2,60,421","10,231"
 Guinea-Bissau,,Low income,Sub-Saharan Africa,Closed,2010,2010,2006,2006,12.191,-14.475,346705,8950,278890,55176,3689,"3,46,705","8,950","2,78,890","55,176","3,689"
 San Marino,1-Mar,High income,Europe and Central Asia,Closed,2018,2018,2018,2018,43.942,12.4611,4999,909,1698,1653,739,4999,909,"1,698","1,653",739
