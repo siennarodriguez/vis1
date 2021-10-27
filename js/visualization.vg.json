@@ -16,6 +16,13 @@
       "data": {
         "url": "https://raw.githubusercontent.com/siennarodriguez/vis1/main/data/education_COVID19.csv"
       },
+      "params": [
+        {
+          "name": "school_status",
+          "select": { "type": "point", "fields": ["School Status"] },
+          "bind": "legend"
+        }
+      ],
       "mark": { "type": "circle" },
       "encoding": {
         "longitude": { "field": "Longitude", "type": "quantitative" },
@@ -43,14 +50,18 @@
               "Not known"
             ],
             "range": [
-              "#b2182b",
-              "#ef8a62",
-              "#fddbc7",
+              "#ff7f00",
+              "#c51b7d",
+              "#4d9221",
               "#67a9cf",
               "#2166ac",
               "#7b3294"
             ]
           }
+        },
+        "opacity": {
+          "condition": { "param": "school_status", "value": 0.6 },
+          "value": 0.2
         },
         "tooltip": [
           { "field": "Country Name", "type": "nominal" },
